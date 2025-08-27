@@ -101,5 +101,5 @@ I'm Adeuvaldo Neto Fernandes Paiva, a 21-year-old software engineer student at U
 
 ## My Stats📈
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasnascky&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasnascky&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NettoZk&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NettoZk&theme=radical)
